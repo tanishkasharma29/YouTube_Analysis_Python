@@ -81,7 +81,7 @@ pip install pandas numpy matplotlib seaborn wordcloud textblob emoji
 ### Audience Engagement
 
 **$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/audience_engagement.png?raw=true)
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Audience%20Engagement.png)
 - Analyzes user interactions and engagement based on comment activity.
 
 ### Relationship Between Views and Likes
