@@ -99,6 +99,6 @@ pip install pandas numpy matplotlib seaborn wordcloud textblob emoji
 ### Channels with Trending Videos
 
 **$1**
-[!Channels with Trending Videos](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Channel%20with%20largest%20number%20of%20trending%20videos.png)
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Channel%20with%20largest%20number%20of%20trending%20videos.png)
 - Identifies channels with the highest number of trending videos.
 
