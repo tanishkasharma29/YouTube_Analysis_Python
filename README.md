@@ -63,7 +63,6 @@ pip install pandas numpy matplotlib seaborn wordcloud textblob emoji
 
 ### Comment Length Distribution
 
-![Comment Length Distribution](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/comment_length.png?raw=true)
 - Provides insights into whether short or long comments are more prevalent.
 
 ### Category-Based Likes Analysis
