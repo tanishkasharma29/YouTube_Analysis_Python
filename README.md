@@ -75,7 +75,7 @@ pip install pandas numpy matplotlib seaborn wordcloud textblob emoji
 ### Category-Based Likes Analysis
 
 **$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/category_likes.png?raw=true)
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Category%20with%20maximum%20likes.png)
 - Displays the number of likes per video category.
 
 ### Audience Engagement
