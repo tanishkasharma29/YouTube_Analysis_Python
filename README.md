@@ -1,23 +1,31 @@
 # YouTube Analysis in Python
 
 ## Overview
+
 This project provides a comprehensive analysis of YouTube comments using Python. The analysis includes sentiment analysis, word cloud generation, emoji analysis, and visualization of trends in user feedback.
 
 ## Features
+
 - **Sentiment Analysis**: Classifies comments as positive, negative, or neutral.
 - **Word Cloud Visualization**: Displays frequently used words in comments.
 - **Emoji Analysis**: Analyzes emoji usage in YouTube comments to understand user sentiment better.
 - **Comment Length Distribution**: Examines the distribution of comment lengths.
 - **Most Frequent Words**: Identifies commonly used words in both positive and negative comments.
 - **User Engagement Analysis**: Analyzes the frequency and types of interactions users have in comments.
+- **Category-Based Analysis**: Examines the number of likes per category.
+- **Relationship Between Views and Likes**: Analyzes correlation between views, likes, and dislikes.
+- **Trending Channel Analysis**: Identifies channels with the highest number of trending videos.
 
 ## Requirements
+
 To run this project, you need to install the following dependencies:
+
 ```bash
 pip install pandas numpy matplotlib seaborn wordcloud textblob emoji
 ```
 
 ## Usage
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/tanishkasharma29/YouTube_Analysis_Python.git
@@ -33,31 +41,64 @@ pip install pandas numpy matplotlib seaborn wordcloud textblob emoji
 4. Run the cells step by step to analyze YouTube comments.
 
 ## Results
-- **Positive Sentiment Words**: Users frequently use words like *best, awesome, perfect, amazing, happy*.
-- **Negative Sentiment Words**: Common negative words include *terrible, worst, horrible, boring, disgusting*.
-- **Emoji Analysis**: Determines which emojis are associated with positive or negative sentiments.
-- **Word Cloud Representation**: Shows the most frequently occurring words in positive and negative comments.
-- **Comment Length Distribution**: Provides insights into whether short or long comments are more prevalent.
-- **Engagement Insights**: Identifies common patterns in user interactions based on the nature of comments.
 
-## Screenshots
-To enhance the documentation, you can add relevant screenshots in the following sections:
-- **Sentiment Analysis Results**: Add an image showing a summary of positive, negative, and neutral comment distributions.
-- **Word Cloud**: Include a generated word cloud image to visualize frequently used words.
-- **Emoji Analysis**: Insert a graphical representation of emoji usage in positive and negative comments.
-- **Comment Length Distribution**: Display a histogram or graph showing comment length trends.
+### Positive Sentiment Analysis
 
-You can place the screenshots in a `screenshots/` directory and reference them in the README like this:
-```markdown
-![Sentiment Analysis](screenshots/sentiment_analysis.png)
-![Word Cloud](screenshots/wordcloud.png)
-![Emoji Analysis](screenshots/emoji_analysis.png)
-![Comment Length Distribution](screenshots/comment_length.png)
-```
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/positive_sentiment.png?raw=true)
+- Users frequently use words like *best, awesome, perfect, amazing, happy*.
 
-## Contributing
-Feel free to submit issues or pull requests for improvements.
+### Negative Sentiment Analysis
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/negative_sentiment.png?raw=true)
+- Common negative words include *terrible, worst, horrible, boring, disgusting*.
+
+### Word Cloud Representation
+
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/wordcloud.png?raw=true)
+- Shows the most frequently occurring words in positive and negative comments.
+
+### Emoji Analysis
+
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/emoji_analysis.png?raw=true)
+- Determines which emojis are associated with positive or negative sentiments.
+
+### Comment Length Distribution
+
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/comment_length.png?raw=true)
+- Provides insights into whether short or long comments are more prevalent.
+
+### Category-Based Likes Analysis
+
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/category_likes.png?raw=true)
+- Displays the number of likes per video category.
+
+### Audience Engagement
+
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/audience_engagement.png?raw=true)
+- Analyzes user interactions and engagement based on comment activity.
+
+### Relationship Between Views and Likes
+
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/views_likes.png?raw=true)
+- Examines how views and likes are correlated.
+
+### Correlation Among Views, Likes, and Dislikes
+
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/correlation_graph.png?raw=true)
+- Shows the relationship between views, likes, and dislikes to identify trends.
+
+### Channels with Trending Videos
+
+**$1**
+[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/trending_channels.png?raw=true)
+- Identifies channels with the highest number of trending videos.
 
