@@ -44,61 +44,50 @@ pip install pandas numpy matplotlib seaborn wordcloud textblob emoji
 
 ### Positive Sentiment Analysis
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/positive_sentiment.png?raw=true)
+![Positive Sentiment Analysis](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Positive%20Sentiment%20Analysis.png)
 - Users frequently use words like *best, awesome, perfect, amazing, happy*.
 
 ### Negative Sentiment Analysis
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/negative_sentiment.png?raw=true)
+![Negative Sentiment Analysis](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Negative%20Sentiment%20Analysis.png)
 - Common negative words include *terrible, worst, horrible, boring, disgusting*.
 
 ### Word Cloud Representation
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/wordcloud.png?raw=true)
 - Shows the most frequently occurring words in positive and negative comments.
 
 ### Emoji Analysis
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/emoji_analysis.png?raw=true)
+![Emoji Analysis](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Emoji_Analysis.png)
 - Determines which emojis are associated with positive or negative sentiments.
 
 ### Comment Length Distribution
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/comment_length.png?raw=true)
+![Comment Length Distribution](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/comment_length.png?raw=true)
 - Provides insights into whether short or long comments are more prevalent.
 
 ### Category-Based Likes Analysis
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Category%20with%20maximum%20likes.png)
+![Category-Based Likes Analysis](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Category%20with%20maximum%20likes.png)
 - Displays the number of likes per video category.
 
 ### Audience Engagement
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Audience%20Engagement.png)
+![Audience Engagement](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Audience%20Engagement.png)
 - Analyzes user interactions and engagement based on comment activity.
 
 ### Relationship Between Views and Likes
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/views_likes.png?raw=true)
+![Relationship Between Views and Likes](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Relationship%20between%20views%20and%20likes.png)
 - Examines how views and likes are correlated.
 
 ### Correlation Among Views, Likes, and Dislikes
 
-**$1**
-[View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/screenshots/correlation_graph.png?raw=true)
+![Correlation Among Views, Likes, and Dislikes](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Correlation%20among%20likes%2C%20dislikes%20and%20views.png)
 - Shows the relationship between views, likes, and dislikes to identify trends.
 
 ### Channels with Trending Videos
 
-**$1**
-![View Screenshot](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Channel%20with%20largest%20number%20of%20trending%20videos.png)
+![Channels with Trending Videos](https://github.com/tanishkasharma29/YouTube_Analysis_Python/blob/main/Channel%20with%20largest%20number%20of%20trending%20videos.png)
 - Identifies channels with the highest number of trending videos.
 
